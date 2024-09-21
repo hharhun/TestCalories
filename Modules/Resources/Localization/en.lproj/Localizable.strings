@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Pods
+
+*/
+
+// MARK: - Common
+
+"Common.ok" = "Ok";
+"Common.cancel" = "Cancel";
+"Common.error" = "Error";
+
+
+"Common.yes" = "Yes";
+"Common.no" = "No";
+
+// MARK: - Errors
+
+"Errors.unknown" = "Unknown error";
+
+// MARK: - ProductsList
+
+"ProductsList.title" = "Breakfast";
+"ProductsList.noName" = "No name";
+"ProductsList.search" = "Search";
+"ProductsList.brandName" = "Brand name";
+"ProductsList.category" = "Category";
+"ProductsList.listIsEmpty" = "Sorry, list is empty";
